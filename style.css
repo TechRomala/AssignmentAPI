@@ -4,7 +4,12 @@
    font-size: 18px;
    background-color: burlywood;
 }
-
+.h2{
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  margin: 10px;
+}
 .card{
    margin: 20px;
    background-color: beige;
